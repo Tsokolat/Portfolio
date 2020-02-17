@@ -1,0 +1,28 @@
+#README
+
+First school project AVA Prologue, 2D Cyberpunk themed platformer.
+
+My roles in the project:
+Project leader, programmer, animator, sounds, game design.
+
+What I learned while doing this project:
+
+How to implement feature ideas into game mechanics:
+- 3 different melee attacks with sounds and animations 
+- Ability to shoot ranged weapon with sound and animation 
+- Traps that cause damage to player character
+- Different main character animations with different states ( jump,crouch,run)
+
+How to create main menu with animations and background music and how to link buttons to actions / scenes:
+- New Game
+- Save Game / Load Game
+- Exit Game
+- Credits
+
+I learned how important time management and clear tasklists are to the project.
+
+I was doing multiple roles in this project, which overloaded my time and effiency a bit.
+We focused too much on having many different mechanics instead of finishing the game,
+so we ran out of time to actually finish the project.
+
+Project was a fun and hard lesson into game deveploment.
