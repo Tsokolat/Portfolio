@@ -1,0 +1,21 @@
+#README
+
+Prototype 2048
+
+2048-game based mechanics where you need to combine food items to get next level items and eventually get a scorepoint.
+This prototype was a challenging eye opener how to create and implement prototypes.
+It was hard and fun at the same time to learn how you can use only code to get a playable prototype, our assets were added at later stage.
+We co-created this prototype with student colleague during our trainee period.
+
+What I learned from this project? 
+
+I learned how to work in Scrum, attending daily meetings, sprint planning, reviews and sprint retrospects.
+
+I learned how to implement features / ideas to a prototype through code only.
+Fast prototyping instead of wondering about graphics / assets, these would come at a later stage if game would be fun.
+
+I learned how to adapt MVC model to game dev / prototyping, also gained deeper knowledge about C# basics
+(events,for loops, a lot of vectors and arrays, also got familiar with touch input for mobile)
+
+This project was the hardest lesson so far since I got to dive to the deep end immediately.
+But in the end Im proud that we got an playable prototype with fun mechanics.
