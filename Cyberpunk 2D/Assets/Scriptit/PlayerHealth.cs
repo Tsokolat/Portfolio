@@ -30,7 +30,7 @@ public class PlayerHealth : MonoBehaviour
 
     private void Update()
     {
-        if (transform.position.y <= -fallBoundary)
+        if (transform.position.y == -fallBoundary)
         {
             //addDamage(100);
             EndGame();
