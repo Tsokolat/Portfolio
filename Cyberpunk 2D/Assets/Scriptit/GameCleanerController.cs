@@ -18,7 +18,7 @@ public class GameCleanerController : MonoBehaviour
     public void RestartGame()
     {
         GameStatus.status.health=100;
-        //SceneManager.LoadScene("Level1");
+        SceneManager.LoadScene("Level1");
         Scene scene = SceneManager.GetActiveScene();
         SceneManager.LoadScene(scene.name);
     }

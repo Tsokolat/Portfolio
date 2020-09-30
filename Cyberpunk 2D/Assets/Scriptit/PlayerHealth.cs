@@ -32,7 +32,7 @@ public class PlayerHealth : MonoBehaviour
     {
         if (transform.position.y == -fallBoundary)
         {
-            //addDamage(100);
+            addDamage(1000);
             EndGame();
         }
 
@@ -56,9 +56,9 @@ public class PlayerHealth : MonoBehaviour
 
         endText = "GAMEOVER";
         anim.SetTrigger("Die");
-        //SceneManager.LoadScene("DeathScene");
+       // SceneManager.LoadScene("DeathScene");
 
-        //EndGame();
+        EndGame();
 
 
     }
